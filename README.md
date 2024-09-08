@@ -1,7 +1,7 @@
 #### Loan-Eligibility-Predictor
 
 ### Overview
-This project implements a machine learning model to predict the eligibility of loan applications based on various features. Initially, a Logistic Regression model was used, achieving 79% accuracy with k-fold cross-validation. Subsequently, the model was refined using Decision Tree Algorithm, resulting in an accuracy improvement to 97.89%.
+This project implements a machine learning model to predict the eligibility of loan applications based on various features. Initially, a Logistic Regression model was used, achieving 79% accuracy with k-fold cross-validation. Subsequently, the model was refined using Decision Tree Algorithm, resulting in an accuracy improvement to 97.93%.
 
 ### Features
 - Predicts loan eligibility based on applicant information.
@@ -18,7 +18,7 @@ This project implements a machine learning model to predict the eligibility of l
 
 * **Model 2: Decision Tree Algorithm**
   - **Notebook:** `decision_tree_algorithm_model.ipynb`
-  - **Accuracy:** 97.89%
+  - **Accuracy:** 97.93%
   - **Details:** 
     - Implemented using Decision Tree Algorithm.
     - Significant accuracy improvement observed over logistic regression.
